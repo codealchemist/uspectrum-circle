@@ -1,6 +1,6 @@
 {
   "name": "uspectrum-circle",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Circle spectrum analyzer for WebAudio.",
   "main": "index.js",
   "scripts": {
